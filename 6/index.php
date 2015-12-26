@@ -5,7 +5,7 @@
 </head>
 <body>
 <ul>
-<li><a href="get.php">form(get)</a></li>
+<li><a href="get.php">f(get)</a></li>
 <li><a href="post.php">form(post)</a></li>
 <li><a href="hensu.php">変数</a></li>
 <li><a href="hairetsu.php">配列</a></li>
